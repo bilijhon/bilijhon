@@ -1,6 +1,6 @@
-- # SOBRE MIMlllllllll
-- 
-- 👋 Hi, I’m @bilijhon
+- # SOBRE MIM
+-  👋 Oi, meu nome é @bilijhon
+-  Meu email para contato é abiline.melo@escola.pr.gov.br
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
